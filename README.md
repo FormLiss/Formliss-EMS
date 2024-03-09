@@ -1,6 +1,6 @@
 # Formliss EMS
 
-Formliss EMS is a cloud-based Employee Management System (EMS) designed to streamline operations and empower managers in fast-paced warehouse environments. Our MVP focuses on core functionalities to optimize workforce efficiency and performance.
+Formliss EMS is a cloud-first Employee Management System (EMS) designed to streamline operations and empower managers in fast-paced warehouse environments. Our MVP focuses on core functionalities to optimize workforce efficiency and performance.
 
 * Key Features:
     * Attendance Tracking:
@@ -9,8 +9,6 @@ Formliss EMS is a cloud-based Employee Management System (EMS) designed to strea
         * Automated reports on tardiness and overtime.
     * Training Management:
         * Create, assign, and track completion of training modules.
-        * Manage certifications and licenses.
-        * Identify training gaps and schedule refreshers.
     * Performance Management:
         * Set clear performance goals for individual employees or teams.
         * Track progress towards goals through key performance indicators (KPIs).
@@ -22,6 +20,8 @@ Formliss EMS is a cloud-based Employee Management System (EMS) designed to strea
     * Coaching & Feedback:
         * Simple interface for managers to provide written feedback on performance.
         * Employees can access their feedback history.
+        * All employee feedback and coaching is stored in a single, easy to access location preventing siloed information that's often a byproduct of written and/or printed communications.
+        * Managers can easily add notes to or about specific employees to provide additional context without generating reams of paperwork.
     * Skills & Expertise Management:
         * Track employee skills and experience levels across various disciplines.
         * Identify skill gaps and plan training initiatives.
@@ -46,17 +46,20 @@ Formliss EMS is a cloud-based Employee Management System (EMS) designed to strea
 
 * The Formliss EMS MVP provides a solid foundation. Future iterations will expand functionalities to include:
 
-* Advanced error tracking with root cause analysis.
-* Integration with Warehouse Management Systems (WMS) for data exchange.
-* Gamification and reward systems to motivate employees.
+  * Advanced error tracking with root cause analysis.
+  * Integration with Warehouse Management Systems (WMS) for data exchange.
+  * Gamification and reward systems to motivate employees.
 
 ### Security:
 
 * Formliss EMS prioritizes data security with secure cloud storage and role-based access control.
-
+* Formliss EMS uses SSL encryption to protect data in transit, and provides suggestions for securing data at rest.
 #### Conclusion:
 
 * Formliss EMS provides a user-friendly and affordable solution for warehouse managers to streamline employee management, improve performance, and optimize operations. Start your free trial today and unleash the full potential of your workforce!
 
 #### Core Technologies
-* For a glimpse at some of the core technologies used to build and implement Formliss EMS, take a look at our [Technology Stack](https://github.com/Formliss/ems/blob/master/documentation/core_technologies.md)
+* For a glimpse at some of the core technologies used to build and implement Formliss EMS, take a look at our [Technology Stack](documentation/core_technologies.md)
+
+#### Pre-Beta Goals
+* Formliss EMS is currently in the pre-beta stage of development. We are working closely with our customers to identify and prioritize our next steps. For a look at our stated pre-beta/pre-release goals, take a look at our [Pre-Beta Goals](documentation/pre_beta_goals.md)
