@@ -2,6 +2,7 @@
 
 Formliss EMS is a cloud-first Employee Management System (EMS) designed to streamline operations and empower managers in fast-paced warehouse environments. Our MVP focuses on core functionalities to optimize workforce efficiency and performance.
 
+## Stated Goals
 * Key Features:
     * Attendance Tracking:
         * Clock in/out functionality for employees using a mobile app or kiosk.
@@ -9,6 +10,7 @@ Formliss EMS is a cloud-first Employee Management System (EMS) designed to strea
         * Automated reports on tardiness and overtime.
     * Training Management:
         * Create, assign, and track completion of training modules.
+        * Roll-your-own training modules with our custom module builder
     * Performance Management:
         * Set clear performance goals for individual employees or teams.
         * Track progress towards goals through key performance indicators (KPIs).
