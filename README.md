@@ -57,3 +57,6 @@ Formliss EMS is a cloud-based Employee Management System (EMS) designed to strea
 #### Conclusion:
 
 * Formliss EMS provides a user-friendly and affordable solution for warehouse managers to streamline employee management, improve performance, and optimize operations. Start your free trial today and unleash the full potential of your workforce!
+
+#### Core Technologies
+* For a glimpse at some of the core technologies used to build and implement Formliss EMS, take a look at our [Technology Stack](https://github.com/Formliss/ems/blob/master/documentation/core_technologies.md)
